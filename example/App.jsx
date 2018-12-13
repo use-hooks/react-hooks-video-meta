@@ -14,6 +14,7 @@ export default function App() {
     <div>
       <h2>DEMO of <span style={{ color: '#F44336' }}>@use-hooks/video-meta</span></h2>
       <div>
+        {/* eslint-disable-next-line */}
         <video src={url} controls height={200} />
         <div>Width: {width}, Height: {height}, Duration: {duration}</div>
       </div>

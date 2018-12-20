@@ -1,6 +1,6 @@
 {
   "name": "@use-hooks/video-meta",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Custom React Hooks for video meta.",
   "main": "dist/index.js",
   "files": [

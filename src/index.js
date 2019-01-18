@@ -24,10 +24,6 @@ export default (url) => {
       setMeta({ width, height, duration });
     });
     video.src = url;
-    document.body.appendChild(video);
-    return () => {
-      video.parentNode.removeChild(video);
-    };
   }, [url]);
 
   return meta;

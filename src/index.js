@@ -18,7 +18,6 @@ export default (url) => {
   useEffect(() => {
     if (!url) return;
     const video = document.createElement('video');
-    video.style.display = 'none';
     video.addEventListener('loadedmetadata', (e) => {
       const { videoWidth: width, videoHeight: height, duration } = e.target;
       setMeta({ width, height, duration });

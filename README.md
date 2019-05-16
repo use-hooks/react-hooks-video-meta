@@ -94,4 +94,4 @@ MIT
  [download-image]: https://img.shields.io/npm/dm/@use-hooks/video-meta.svg?style=flat-square
  [download-url]: https://npmjs.org/package/@use-hooks/video-meta
  [travis-url]: https://travis-ci.com/use-hooks/react-hooks-video-meta
- [travis-image]: https://img.shields.io/com/travis/use-hooks/react-hooks-video-meta.svg?style=flat-square
+ [travis-image]: https://img.shields.io/travis/com/use-hooks/react-hooks-video-meta.svg?style=flat-square
